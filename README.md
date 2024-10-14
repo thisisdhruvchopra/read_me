@@ -15,7 +15,7 @@
 
 - Reach me **thisisdhruvchopra@gmail.com**
 
-- ⚡ Fun fact **I'm not a bot.**
+- Fun fact **I'm not a bot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
