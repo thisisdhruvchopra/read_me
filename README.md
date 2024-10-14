@@ -1,9 +1,15 @@
-<h1 align="center">Hi, This is Dhruv Chopra</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7F7F7&height=90&section=header"/>
+
+<div align="center">
+  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=Hello+World+!;This+is+Dhruv Chopra;Dhruv+Chopra;Welcome+to+my+GitHub." alt="Typing SVG" /></a>
+
+</div>
 <h3 align="center">A passionate Tech Enthusiast from India. Learning DevSecOps.</h3>
 
-- 🔭 I’m currently working on **Kubernetes Based Deployment for Scalable Applications**
+- I’m currently working on **Kubernetes Based Deployment for Scalable Applications**
 
-- 👯 I’m looking to collaborate on **Open Source Projects related to Cloud and DevSecOps**
+- I’m looking to collaborate on **Open Source Projects related to Cloud and DevSecOps**
 
 - Portfolio: [dhruvchopra.info](dhruvchopra.info)
 
