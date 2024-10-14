@@ -11,11 +11,11 @@
 
 - I’m looking to collaborate on **Open Source Projects related to Cloud and DevSecOps**
 
-- Portfolio: [dhruvchopra.info](dhruvchopra.info)
+- Portfolio : https://dhruvchopra.info/
 
-- Reach me **thisisdhruvchopra@gmail.com**
+- Reach me at **thisisdhruvchopra@gmail.com**
 
-- Fun fact **I'm not a bot.**
+- Fun fact : **I'm not a bot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
